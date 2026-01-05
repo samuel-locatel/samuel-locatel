@@ -197,7 +197,7 @@ At <b>weedoit</b>, I work on a high-impact team responsible for a major educatio
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samuel-Duque&theme=gotham&area=true&hide_border=true" alt="Samuel's github activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=samuel-locatel&theme=gotham&area=true&hide_border=true" alt="Samuel's github activity graph" />
   </a>
 </p>
 
